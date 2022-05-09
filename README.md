@@ -110,8 +110,6 @@ __SAÍDA__ :
 ## COMPRE-ME UM CAFÉ:
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
-
 ## AVISO :
 ***Esta ferramenta é apenas para fins educacionais. Se você usar esta ferramenta para outros fins, exceto educação, não seremos responsáveis ​​em tais casos.***
+</p>
